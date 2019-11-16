@@ -1,0 +1,8 @@
+120/1/Nami/3/10/Torbellino de agua/Tridente Maldito	
+150/2/Sargeras/10/10/Fuego de los Demonios/Cornamenta perforadora
+100/3/Baron Nashor/10/10/Veneno Azul/Colmillos Afilados
+230/4/Murlocs/10/5/Locura Destripadora/Cuchillos Desafilados
+160/5/Shen/6/14/Furia Morada/Punetazo Certero
+180/6/Zilean/8/15/Colera del Tiempo/Corte Celestial
+200/7/Ahri/8/17/Energía de Fenix/Bola Destructora
+300/8/Algalon the Observer/8/5/Paradoja Astral/Impacto Estelar

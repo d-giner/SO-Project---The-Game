@@ -1,0 +1,13 @@
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Proyecto v2\bin\Release\Proyecto v2.exe.manifest
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Proyecto v2\bin\Release\Proyecto v2.application
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Proyecto v2\bin\Release\Proyecto v2.exe
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Proyecto v2\bin\Release\Proyecto v2.pdb
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Proyecto v2\obj\x86\Release\WindowsFormsApplication1.Principal.resources
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Proyecto v2\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Proyecto v2\obj\x86\Release\WindowsFormsApplication1.Tablero.resources
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Proyecto v2\obj\x86\Release\Proyecto v2.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Proyecto v2\obj\x86\Release\Proyecto v2.TrustInfo.xml
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Proyecto v2\obj\x86\Release\Proyecto v2.exe.manifest
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Proyecto v2\obj\x86\Release\Proyecto v2.application
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Proyecto v2\obj\x86\Release\Proyecto v2.exe
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Proyecto v2\obj\x86\Release\Proyecto v2.pdb

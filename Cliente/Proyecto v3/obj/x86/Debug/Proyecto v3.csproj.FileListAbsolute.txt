@@ -1,0 +1,99 @@
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v2\obj\x86\Debug\Interop.WMPLib.dll
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v2\obj\x86\Debug\Proyecto v3.csproj.ResolveComReference.cache
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v2\bin\Debug\Proyecto v3.exe.manifest
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v2\bin\Debug\Proyecto v3.application
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v2\bin\Debug\Proyecto v3.exe
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v2\bin\Debug\Proyecto v3.pdb
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v2\obj\x86\Debug\WindowsFormsApplication1.Principal.resources
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v2\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v2\obj\x86\Debug\WindowsFormsApplication1.Tablero.resources
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v2\obj\x86\Debug\Proyecto v3.csproj.GenerateResource.Cache
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v2\obj\x86\Debug\Proyecto v3.TrustInfo.xml
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v2\obj\x86\Debug\Proyecto v3.exe.manifest
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v2\obj\x86\Debug\Proyecto v3.application
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v2\obj\x86\Debug\Proyecto v3.exe
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v2\obj\x86\Debug\Proyecto v3.pdb
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Interop.WMPLib.dll
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csproj.ResolveComReference.cache
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.exe
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.pdb
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\WindowsFormsApplication1.Principal.resources
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csproj.GenerateResource.Cache
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.exe.manifest
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.application
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.exe
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.pdb
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.TrustInfo.xml
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.exe.manifest
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.application
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csproj.ResolveComReference.cache
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.exe
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.pdb
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.exe.manifest
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.application
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.exe
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.pdb
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\WindowsFormsApplication1.Principal.resources
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.TrustInfo.xml
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.exe.manifest
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.application
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csprojResolveAssemblyReference.cache
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\WindowsFormsApplication1.formTablero.resources
+D:\Usuarios\Daniel\Documentos\Drive\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\WindowsFormsApplication1.formTablero.resources
+F:\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Interop.WMPLib.dll
+F:\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csproj.ResolveComReference.cache
+F:\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.exe
+F:\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.pdb
+F:\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.exe.manifest
+F:\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.application
+F:\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.exe
+F:\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.pdb
+F:\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csprojResolveAssemblyReference.cache
+F:\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\WindowsFormsApplication1.Principal.resources
+F:\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\WindowsFormsApplication1.formTablero.resources
+F:\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csproj.GenerateResource.Cache
+F:\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.TrustInfo.xml
+F:\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.exe.manifest
+F:\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.application
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csproj.ResolveComReference.cache
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.exe
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.pdb
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.exe.manifest
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.application
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.exe
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.pdb
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\WindowsFormsApplication1.Principal.resources
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\WindowsFormsApplication1.formTablero.resources
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csproj.GenerateResource.Cache
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.TrustInfo.xml
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.exe.manifest
+C:\Users\Daniel\Downloads\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.application
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csproj.ResolveComReference.cache
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.exe
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.pdb
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.exe.manifest
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.application
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.exe
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\bin\Debug\Proyecto v3.pdb
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\WindowsFormsApplication1.Principal.resources
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\WindowsFormsApplication1.formTablero.resources
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.TrustInfo.xml
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.exe.manifest
+C:\Users\Daniel\Desktop\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.application
+D:\Usuarios\Daniel\Documentos\Drive\Quadris\2A i 2B\2B\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Interop.WMPLib.dll
+D:\Usuarios\Daniel\Documentos\Drive\Quadris\2A i 2B\2B\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.csproj.ResolveComReference.cache
+D:\Usuarios\Daniel\Documentos\Drive\Quadris\2A i 2B\2B\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.exe
+D:\Usuarios\Daniel\Documentos\Drive\Quadris\2A i 2B\2B\SO\Proyecto\Cliente\Proyecto v3\obj\x86\Debug\Proyecto v3.pdb
